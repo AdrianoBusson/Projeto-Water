@@ -41,17 +41,3 @@ A turbidez da água depende da quantidade de matéria sólida presente no estado
 Para elaboração do trabalho usaremos as seguintes faixas de valores de referência para cada um dos parâmetros. 
 Os valores compreendidos entre cada faixa de referência contribuem para que a classificação da água seja ‘Potável”, ou seja aceitável para o consumo humano.
  Se pelo menos um dos parâmetros apresentar valores fora da faixa de referência, a classificação da água passa a ser “não potável” (imprópria para o consumo humano). 
-
-Parâmetros	Valores de referência (aceitáveis)
-Ph	de 6,5 até 8,5
-Dureza	ppm de 47 até 324
-Sólidos	de 500 até 1000 mg/l
-Cloraminas	< 4 mg/l
-Sulfato	de 3 até 30 mg/l
-Condutividade	< 400 μS/cm
-Carbono	< 2 mg/L
-Trihalometanos	< 80 ppm
-Turbidez	< 5,00 NTU
-
-
-
