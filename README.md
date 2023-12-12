@@ -1,4 +1,7 @@
 # Projeto-Water
+1. Diagrama em blocos:
+  ![alt text](https://github.com/AdrianoBusson/Projeto-Water/blob/main/Projeto%20Final%20blocos.jpg?raw=true)
+
 Proposta de monitoramento via IoT da qualidade de água e registro computacional a partir de modelo Machine Learning em blockchain, utilizando Cartesi Machine.
 2.	Visão do Projeto
 
@@ -41,3 +44,4 @@ A turbidez da água depende da quantidade de matéria sólida presente no estado
 Para elaboração do trabalho usaremos as seguintes faixas de valores de referência para cada um dos parâmetros. 
 Os valores compreendidos entre cada faixa de referência contribuem para que a classificação da água seja ‘Potável”, ou seja aceitável para o consumo humano.
  Se pelo menos um dos parâmetros apresentar valores fora da faixa de referência, a classificação da água passa a ser “não potável” (imprópria para o consumo humano). 
+ 
