@@ -1,0 +1,9 @@
+Segue abaixo o código SQL utilizado no GRAFANA para trazer os valores do MYSQL
+Cada display do dashboard possui este códio variando o @@@-Parâmetro-@@@ de acordo com o parâmetro que se deseja obter.
+
+SELECT UNIX_TIMESTAMP(recvTime) as "time",
+CAST(attrValue as decimal) as "value"
+FROM `urn_ngsi-ld_Device_001_Device`
+WHERE attrName = "@@@-Parâmetro-@@"
+ORDER BY "time"
+
