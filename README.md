@@ -3,6 +3,7 @@
   ![alt text](https://github.com/AdrianoBusson/Projeto-Water/blob/main/Projeto%20Final%20blocos.jpg?raw=true)
 
 Proposta de monitoramento via IoT da qualidade de água e registro computacional a partir de modelo Machine Learning em blockchain, utilizando Cartesi Machine.
+
 2.	Visão do Projeto
 
 O acesso à água potável é essencial para a saúde, um direito humano básico e um componente de uma política eficaz de proteção da saúde e desenvolvimento a nível nacional, regional e local.
